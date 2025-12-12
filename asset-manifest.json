@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abishek2611/mini-ecommerce-AScart.git/static/css/main.1fae971b.css",
+    "main.js": "/Abishek2611/mini-ecommerce-AScart.git/static/js/main.ac54e9c2.js",
+    "index.html": "/Abishek2611/mini-ecommerce-AScart.git/index.html",
+    "main.1fae971b.css.map": "/Abishek2611/mini-ecommerce-AScart.git/static/css/main.1fae971b.css.map",
+    "main.ac54e9c2.js.map": "/Abishek2611/mini-ecommerce-AScart.git/static/js/main.ac54e9c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fae971b.css",
+    "static/js/main.ac54e9c2.js"
+  ]
+}
