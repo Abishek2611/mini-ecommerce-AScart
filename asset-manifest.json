@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mini-ecommerce-AScart/static/css/main.1fae971b.css",
-    "main.js": "/mini-ecommerce-AScart/static/js/main.ac54e9c2.js",
+    "main.js": "/mini-ecommerce-AScart/static/js/main.94049f69.js",
     "index.html": "/mini-ecommerce-AScart/index.html",
     "main.1fae971b.css.map": "/mini-ecommerce-AScart/static/css/main.1fae971b.css.map",
-    "main.ac54e9c2.js.map": "/mini-ecommerce-AScart/static/js/main.ac54e9c2.js.map"
+    "main.94049f69.js.map": "/mini-ecommerce-AScart/static/js/main.94049f69.js.map"
   },
   "entrypoints": [
     "static/css/main.1fae971b.css",
-    "static/js/main.ac54e9c2.js"
+    "static/js/main.94049f69.js"
   ]
 }
